@@ -14,6 +14,9 @@ Convolutional Neural Network (CNN):
 
 Utilizes a CNN architecture for image classification, capturing spatial hierarchies in sign language images.
 
+# Training the model
+Dataset Link: [Sign Language Gesture Images Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset)
+Model Train: 
 
 # How to run on your system
 Prerequisites
